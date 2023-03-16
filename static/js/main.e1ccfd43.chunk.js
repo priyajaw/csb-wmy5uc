@@ -1,0 +1,2 @@
+(this["webpackJsonpfirebase-mini-project-extended-starter-code"]=this["webpackJsonpfirebase-mini-project-extended-starter-code"]||[]).push([[0],{10:function(e,t,r){"use strict";r.r(t);var n=r(1),c=r(3),s=r.n(c),i=(r(8),r(0));function o(){return Object(i.jsx)("div",{className:"App"})}var d=document.getElementById("root");s.a.render(Object(i.jsx)(n.StrictMode,{children:Object(i.jsx)(o,{})}),d)},8:function(e,t,r){}},[[10,1,2]]]);
+//# sourceMappingURL=main.e1ccfd43.chunk.js.map
